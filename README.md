@@ -54,3 +54,8 @@ npm install
 ```bash
 npm test
 ```
+
+# Certificate
+
+![HackerRank-React](https://user-images.githubusercontent.com/34600724/117576164-622b7c00-b102-11eb-98b1-bbe99569e076.png)
+
