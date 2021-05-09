@@ -1,4 +1,6 @@
-# Project Statement - ( React: Sorting Articles )
+# React: Sorting Articles
+
+## Project Statement -
 
 Create a basic article sorting application, as shown below. Some core functionalities have already been implemented, but the application is not complete. Application requirements are given below, and the finished application must pass all of the unit tests.
 
